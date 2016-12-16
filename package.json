@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/TiagoSilvaPereira/PowerCRUD-PlugUtils/issues"
   },
-  "homepage": "https://github.com/TiagoSilvaPereira/PowerCRUD-PlugUtils#readme"
+  "homepage": "https://github.com/TiagoSilvaPereira/PowerCRUD-PlugUtils#readme",
+  "dependencies": {
+    "ncp": "^2.0.0",
+    "replace-in-file": "^2.0.3"
+  }
 }
